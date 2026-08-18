@@ -8,7 +8,7 @@ This project simulates a small company network with 3 departments, each isolated
 
 ## 🏗️ Network Topology
 
-![Network Topology](WhatsApp%20Image%202026-08-18%20at%205.2....jpeg)
+![Network Topology](topology.jpeg)
 
 ## 🧩 Components
 
